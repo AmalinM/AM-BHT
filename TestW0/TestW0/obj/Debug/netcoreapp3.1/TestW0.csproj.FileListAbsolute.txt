@@ -1,0 +1,11 @@
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\bin\Debug\netcoreapp3.1\TestW0.exe
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\bin\Debug\netcoreapp3.1\TestW0.deps.json
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\bin\Debug\netcoreapp3.1\TestW0.runtimeconfig.json
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\bin\Debug\netcoreapp3.1\TestW0.runtimeconfig.dev.json
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\bin\Debug\netcoreapp3.1\TestW0.dll
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\bin\Debug\netcoreapp3.1\TestW0.pdb
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\obj\Debug\netcoreapp3.1\TestW0.csprojAssemblyReference.cache
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\obj\Debug\netcoreapp3.1\TestW0.AssemblyInfoInputs.cache
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\obj\Debug\netcoreapp3.1\TestW0.AssemblyInfo.cs
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\obj\Debug\netcoreapp3.1\TestW0.dll
+C:\Users\amukerji\Desktop\New Tests\CSTest\TestW0\TestW0\obj\Debug\netcoreapp3.1\TestW0.pdb
